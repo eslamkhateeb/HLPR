@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253899399894",
+    "firebase_url": "https://angelic-hold-193914.firebaseio.com",
+    "project_id": "angelic-hold-193914",
+    "storage_bucket": "angelic-hold-193914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253899399894:android:736660c14255c5b8",
+        "android_client_info": {
+          "package_name": "com.example.ikhateeb.feedbackform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253899399894-bk7n9omd7kopjp33mnfgv0fmt5khdrrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikhateeb.feedbackform",
+            "certificate_hash": "b4dd1dec04f0836544d235cba9ca5bf1cd30f6b8"
+          }
+        },
+        {
+          "client_id": "253899399894-5k422458sir8pcse0re7a1bj0qhrfi94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztpO6LFV-1CrSVGFldjOgdD-s-WgsK8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253899399894-5k422458sir8pcse0re7a1bj0qhrfi94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

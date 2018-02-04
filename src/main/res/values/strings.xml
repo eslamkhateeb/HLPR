@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HLPR</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="input_phone">Phone</string>
+    <string name="input_promo">Promo Code</string>
+    <string name="text_soon">Soon, You will no longer worry about cleaning, Fill in the form to get a free service once we launch</string>
+    <string name="text_calender">Please choose the date that you wish to recive your helper in</string>
+    <string name="text_cleaning_details">Please provide us with the below details</string>
+    <string name="get_free_hlpr">Get Free HLPR</string>
+    <string name="confirm_date">Confirm Date</string>
+    <string name="hlpr_logo">HLPR logo</string>
+    <string name="splash_screen_image_desc">HLPR</string>
+
+
+    <string name="input_Address_Details">Address Details</string>
+    <string name="hint_AppSize">Apartment Size</string>
+
+
+</resources>
